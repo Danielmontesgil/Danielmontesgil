@@ -27,8 +27,6 @@ Welcome to my Github page! I am Daniel and I am currently working as a Game Deve
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
-
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
 <code><img width="10%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
 <code><img width="8%" src="https://e7.pngegg.com/pngimages/914/758/png-clipart-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper.png"></code>
