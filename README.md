@@ -27,8 +27,11 @@ Welcome to my Github page! I am Daniel and I am currently working as a Game Deve
 
 #### :computer: Programming languages and tools: 
 <p>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
-<code><img width="10%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
-<code><img width="20%" src="https://e7.pngegg.com/pngimages/914/758/png-clipart-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper.png"></code>
+<img width="10%" src="https://seeklogo.com/images/U/unity-logo-555C5D1D7E-seeklogo.com.png">
+<img width="5%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
+<img width="10%" src="https://seeklogo.com/images/G/git-logo-F4A93DAA20-seeklogo.com.png">
 <br />
+<img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxTLNhTyAT0IBQTG4_l6kXXB1-N2mo83TGlh5ElhE0GKLe13Jb0qolL0b4mVvmRZwVF0&usqp=CAU">
+<img width="10%" src="https://cdn.videogamesblogger.com/wp-content/uploads/2018/01/PlayFab-Logo.jpg">
+<img width="10%" src="https://seeklogo.com/images/M/microsoft-visual-studio-logo-D33332CF6C-seeklogo.com.png">
 </p>
