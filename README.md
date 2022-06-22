@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Danielmontesgil)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielmontesgil/)
 
-Welcome to my Github page! I am Daniel and I am currently working as a Game Developer for Globant!
+Welcome to my Github page! I am Daniel and I am currently working as a Game Developer for [Globant](www.globant.com)!
 
 ### ⚡ Relevant achievements
 - Finalist in the Indie Prize Awards 2019 with a game called Hobbo Fight.
