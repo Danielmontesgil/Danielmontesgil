@@ -6,10 +6,15 @@
 
 Welcome to my Github page! I am Daniel and I am currently working as a Game Developer for [Globant](www.globant.com)!
 
-### ⚡ Relevant achievements
+### ⚡ Relevant games where I worked on
 - Finalist in the Indie Prize Awards 2019 with a game called Hobbo Fight.
-- Worked on a game for Globant, Glu Mobile and Electronic Arts
-- Worked on a game for History Channel.
+    https://hoboweb.herokuapp.com/Hobo-Fight Game Webpage.
+    https://gawss.itch.io/hobo-fight Download the game!
+- Worked on a game for Globant, Glu Mobile and Electronic Arts (secret project) 🤫🤫🤫
+- Worked on a game for History Channel called Project Blue Book Hidden Mysteries.
+    https://play.google.com/store/apps/details?id=com.threegates.projectbluebook&hl=es&gl=US
+- Personal game with friends called Master Bounce.
+    https://play.google.com/store/apps/details?id=com.PostNBeam.Bounce&hl=es&gl=US
 
 ### ✔️ I'm currently learning
 - Maths.
