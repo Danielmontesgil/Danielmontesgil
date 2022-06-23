@@ -8,18 +8,30 @@ Welcome to my Github page! I am Daniel and I am currently working as a Game Deve
 
 ### ⚡ Relevant games where I worked on
 - Worked on a game for Globant, Glu Mobile and Electronic Arts (secret project) 🤫🤫🤫
-- Finalist in the Indie Prize Awards 2019 with a game called Hobbo Fight.
+
+- Finalist in the Indie Prize Awards 2019 with a game called <b>Hobo Fight</b>.
+    <br />
+    <img width="15%" src="https://user-images.githubusercontent.com/20919016/175407506-cfddeda6-4d46-4cb0-9764-ff4acf91d253.png">
     <br />
     https://hoboweb.herokuapp.com/Hobo-Fight Game Webpage.
     <br />
     https://gawss.itch.io/hobo-fight Download the game!
-- Porting a PikPok's game from C++ to Unity.
+    
+- Porting a PikPok's game from C++ to Unity called <b>Rival Stars Basketball</b>.
+    <br />
+    <img width="15%" src="https://user-images.githubusercontent.com/20919016/175407384-2a93144d-bc4e-48ed-9118-c609c4848181.png">
     <br />
     https://play.google.com/store/apps/details?id=com.pikpok.bbl.play&hl=es&gl=US
-- Worked on a game for History Channel called Project Blue Book Hidden Mysteries.
+    
+- Worked on a game for History Channel called <b>Project Blue Book Hidden Mysteries</b>.
+    <br />
+    <img width="15%" src="https://user-images.githubusercontent.com/20919016/175406771-3eaa3cbc-1636-4678-bb75-3897968879da.png">
     <br />
     https://play.google.com/store/apps/details?id=com.threegates.projectbluebook&hl=es&gl=US
-- Personal game with friends called Master Bounce.
+    
+- Personal game with friends called <b>Master Bounce</b>.
+    <br />
+    <img width="12%" src="https://user-images.githubusercontent.com/20919016/175406138-f68e9225-52a7-46c8-806b-1396fd9f7780.png">
     <br />
     https://play.google.com/store/apps/details?id=com.PostNBeam.Bounce&hl=es&gl=US
 
