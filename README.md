@@ -7,13 +7,20 @@
 Welcome to my Github page! I am Daniel and I am currently working as a Game Developer for [Globant](www.globant.com)!
 
 ### ⚡ Relevant games where I worked on
-- Finalist in the Indie Prize Awards 2019 with a game called Hobbo Fight.
-    https://hoboweb.herokuapp.com/Hobo-Fight Game Webpage.
-    https://gawss.itch.io/hobo-fight Download the game!
 - Worked on a game for Globant, Glu Mobile and Electronic Arts (secret project) 🤫🤫🤫
+- Finalist in the Indie Prize Awards 2019 with a game called Hobbo Fight.
+    <br />
+    https://hoboweb.herokuapp.com/Hobo-Fight Game Webpage.
+    <br />
+    https://gawss.itch.io/hobo-fight Download the game!
+- Porting a PikPok's game from C++ to Unity.
+    <br />
+    https://play.google.com/store/apps/details?id=com.pikpok.bbl.play&hl=es&gl=US
 - Worked on a game for History Channel called Project Blue Book Hidden Mysteries.
+    <br />
     https://play.google.com/store/apps/details?id=com.threegates.projectbluebook&hl=es&gl=US
 - Personal game with friends called Master Bounce.
+    <br />
     https://play.google.com/store/apps/details?id=com.PostNBeam.Bounce&hl=es&gl=US
 
 ### ✔️ I'm currently learning
@@ -21,7 +28,7 @@ Welcome to my Github page! I am Daniel and I am currently working as a Game Deve
 - C++
 
 ### 👩‍💻 I'm working on
-- VR experience in Unity for Globant (seccret project) 🤫🤫🤫
+- VR experience in Unity for Globant (secret project) 🤫🤫🤫
 
 ### 💡 Goals for 2022
 - Improve my Math and Physics skills.
