@@ -47,7 +47,7 @@ Welcome to my Github page! I am Daniel and I am currently working as a Game Deve
 - Become skilled in C++.
 - Move to Germany with my wife.
 - Exercising 3 days a week
-- Improving my CV with some education apart from university, and extending my personal projects on GitHub.
+- Improving my CV with some education apart from university, and extending my personal project RPG-mechanics.
 
 #### :computer: Programming languages and tools: 
 <p>
