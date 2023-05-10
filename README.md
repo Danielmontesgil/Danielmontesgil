@@ -40,14 +40,14 @@ Welcome to my Github page! I am Daniel and I am currently working as a Game Deve
 - C++
 
 ### 👩‍💻 I'm working on
-- VR experience in Unity for Globant (secret project) 🤫🤫🤫
+- Zynga's Development Kit used internally on Zynga's games.
 
-### 💡 Goals for 2022
+### 💡 Goals for 2023
 - Improve my Math and Physics skills.
 - Become skilled in C++.
 - Move to Germany with my wife.
 - Exercising 3 days a week
-- Improving my CV with some education apart from university, and extending my personal project RPG-mechanics.
+- Improving my CV with some education apart from university, and extending my personal portfolio.
 
 #### :computer: Programming languages and tools: 
 <p>
