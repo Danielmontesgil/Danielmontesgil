@@ -1,61 +1,37 @@
-### Hi there 👋 
-### This is Daniel Montes Gil!
+# Welcome to My GitHub
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Danielmontesgil)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielmontesgil/)
+Hi! I'm **Daniel Montes Gil**, a software engineer passionate about game development. I work with Unity, Unreal Engine, C#, and C++, among other tools. I invite you to explore my portfolio and learn more about my work on my website:  
+➡️ [Visit my website](https://danielmontesgil.github.io)
 
-Welcome to my Github page! I am Daniel and I am currently working as a Game Developer for [Globant](www.globant.com)!
+---
 
-### ⚡ Relevant games where I worked on
-- Worked on a game for Globant, Glu Mobile and Electronic Arts (secret project) 🤫🤫🤫
+## 🔥 Featured Projects
 
-- Finalist in the Indie Prize Awards 2019 with a game called <b>Hobo Fight</b>.
-    <br />
-    <img width="15%" src="https://user-images.githubusercontent.com/20919016/175407506-cfddeda6-4d46-4cb0-9764-ff4acf91d253.png">
-    <br />
-    https://hoboweb.herokuapp.com/Hobo-Fight Game Webpage.
-    <br />
-    https://gawss.itch.io/hobo-fight Download the game!
-    
-- Porting a PikPok's game from C++ to Unity called <b>Rival Stars Basketball</b>.
-    <br />
-    <img width="15%" src="https://user-images.githubusercontent.com/20919016/175407384-2a93144d-bc4e-48ed-9118-c609c4848181.png">
-    <br />
-    https://play.google.com/store/apps/details?id=com.pikpok.bbl.play&hl=es&gl=US
-    
-- Worked on a game for History Channel called <b>Project Blue Book Hidden Mysteries</b>.
-    <br />
-    <img width="15%" src="https://user-images.githubusercontent.com/20919016/175406771-3eaa3cbc-1636-4678-bb75-3897968879da.png">
-    <br />
-    https://play.google.com/store/apps/details?id=com.threegates.projectbluebook&hl=es&gl=US
-    
-- Personal game with friends called <b>Master Bounce</b>.
-    <br />
-    <img width="12%" src="https://user-images.githubusercontent.com/20919016/175406138-f68e9225-52a7-46c8-806b-1396fd9f7780.png">
-    <br />
-    https://play.google.com/store/apps/details?id=com.PostNBeam.Bounce&hl=es&gl=US
+### 1. **[Project 1: Unreal Common UI](https://github.com/Danielmontesgil/zynga-core-game-engine)**
+An extensive project that powers multiple games inside Zynga. I contributed by improving installation and usage within Unity, achieving a 50% increase in efficiency. My responsibilities included:
 
-### ✔️ I'm currently learning
-- Maths.
-- C++
+- Designed and implemented a reflection-based solution for a memory profiler.
+- Added unit tests to ensure data consistency.
+- Contributed to the architecture of new functionalities and integration with the game engine.
 
-### 👩‍💻 I'm working on
-- Zynga's Development Kit used internally on Zynga's games.
+### 2. **[Project 2: Pure C++ games](https://github.com/Danielmontesgil/master-bounce)**
+An Android arcade game I created from scratch. The objective is to control a bouncing ball and guide it to the finish line, avoiding obstacles and collecting rewards. This project features:
 
-### 💡 Goals for 2023
-- Improve my Math and Physics skills.
-- Become skilled in C++.
-- Move to Germany with my wife.
-- Exercising 3 days a week
-- Improving my CV with some education apart from university, and extending my personal portfolio.
+- A custom 2D physics system.
+- Integrated animations and dynamic difficulty adjustment.
+- Full implementation of Playfab services for user data management.
 
-#### :computer: Programming languages and tools: 
-<p>
-<img width="10%" src="https://seeklogo.com/images/U/unity-logo-555C5D1D7E-seeklogo.com.png">
-<img width="5%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
-<img width="10%" src="https://seeklogo.com/images/G/git-logo-F4A93DAA20-seeklogo.com.png">
-<br />
-<img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxTLNhTyAT0IBQTG4_l6kXXB1-N2mo83TGlh5ElhE0GKLe13Jb0qolL0b4mVvmRZwVF0&usqp=CAU">
-<img width="10%" src="https://cdn.videogamesblogger.com/wp-content/uploads/2018/01/PlayFab-Logo.jpg">
-<img width="10%" src="https://seeklogo.com/images/M/microsoft-visual-studio-logo-D33332CF6C-seeklogo.com.png">
-</p>
+---
+
+## 📚 Other Projects
+
+Check out more of my repositories for various game prototypes. I'm always exploring new ideas and tech to expand my knowledge.
+
+---
+
+## 🌐 Get in Touch
+
+For more about my work, background, and projects, feel free to reach out or visit my website.  
+📧 Email: [dmontesgil@gmail.com](mailto:dmontesgil@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/danielmontesgil) | [GitHub](https://github.com/Danielmontesgil)
+
